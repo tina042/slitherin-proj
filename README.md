@@ -4,8 +4,6 @@
 - CSS
 - JavaScript
 
-(No External Library Used)
-
 ## Features ✨
 
 - Authentication process with API.
